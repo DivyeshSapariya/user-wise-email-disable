@@ -4,7 +4,7 @@
 * Plugin URI: https://windowsthink.com/
 * Description: This plugin is useful for disabling user-wise mail. You need to drag and drop the user and save it then this will work automatically.
 * Author: Efflux Perceive
-* Author URI: https://windowsthink.com/remove-cart-products-wordpress-plugin/
+* Author URI: https://windowsthink.com/
 * Version: 0.1.0
 * License:      GPL2
 * License URI:  https://www.gnu.org/licenses/gpl-2.0.html
